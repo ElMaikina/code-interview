@@ -4,4 +4,7 @@ El PDF que contiene los ejercicios esta incluido, ademas de varias soluciones po
 pregunta de mi parte,
 
 # Formato
-Cada pregunta tiene el enunciado como comentario
+Fui ordenando las preguntas y respuestas de la siguiente manera:
+- Cada enunciado respondido esta guardado como codigo Java.
+- Dicho codigo tiene un nombre descriptivo del problema.
+- Cada pregunta tiene el enunciado como comentario al principio del codigo.
