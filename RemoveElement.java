@@ -24,6 +24,6 @@ public class RemoveElement {
                 lengthNoDupes--;
             }
         }
-        System.out.println("Numeros diferentes: " + lengthNoDupes);
+        int[] result;
     }
 }
